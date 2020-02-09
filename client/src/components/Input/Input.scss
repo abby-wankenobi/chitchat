@@ -33,4 +33,9 @@ input:focus, textarea:focus, select:focus{
     height: 60%;
     border-radius: 20px;
     font-family: 'Comfortaa', cursive;
+    
+    &:hover {
+        cursor: pointer;
+        background: #146b8d;
+    }
 }

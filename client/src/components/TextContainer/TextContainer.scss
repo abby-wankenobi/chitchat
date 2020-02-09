@@ -4,14 +4,26 @@
     margin-left: 100px;
     color: white;
     height: 60%;
-    justify-content: space-between;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Poiret One', cursive;
+}
+
+.title {
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+.online {
+    margin-bottom: 10px;
 }
 
 .activeContainer {
     display: flex;
     align-items: center;
     margin-bottom: 50%;
+    
+    h2 {
+        margin: 10px 0;
+    }
 }
 
 .activeItem {
@@ -26,11 +38,11 @@
     }
 }
 
-.textContainer {
-    h1 {
-        margin-bottom: 0px;
-    }
-}
+// .textContainer {
+//     h1 {
+//         margin-bottom: 0px;
+//     }
+// }
 
 @media (min-width: 320px) and (max-width: 1200px) {
 
