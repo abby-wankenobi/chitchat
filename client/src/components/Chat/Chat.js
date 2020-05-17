@@ -56,6 +56,8 @@ const Chat = ( { location } ) => {
             socket.emit( 'send message', message, () => setMessage( "" ) );
         }
     }
+    
+    //test commit
         
     return (
         <div className="outerContainer">
