@@ -1,8 +1,8 @@
 # ChitChat!
 
-[Demo](https://hungry-neumann-0e77ae.netlify.app/)
+**[Demo](https://hungry-neumann-0e77ae.netlify.app/)**
 
-![ChitChat App](/client/public/chitchatapp.png "ChitChat App")
+![ChitChat App](/client/public/chitchatapp.png =300x)
 
 
 ChitChat is a chat application that allows you to join a room and chitchat with others in real time. 
